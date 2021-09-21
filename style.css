@@ -1,0 +1,15 @@
+#DCMIPS{
+width:   1349px;
+height:  500px;
+display: inline-block;
+}
+
+.announcement{
+background-color:lightblue;
+color:crimson;
+}
+
+#schoolname{
+color:steelblue;
+margin-left:15px;
+}
